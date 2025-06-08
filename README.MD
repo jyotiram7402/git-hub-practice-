@@ -1,1 +1,1 @@
-Hey there this is an github course for beginners
+Hey this is an github course for beginners
